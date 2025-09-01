@@ -48,3 +48,6 @@ This project uses GitHub graphQL API to get the commit histories and write into 
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
  
+
+
+<!-- Security scan triggered at 2025-09-01 20:18:04 -->
